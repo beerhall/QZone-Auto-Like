@@ -1,3 +1,11 @@
+// ==UserScript==
+// @name        QQ空间自动点赞
+// @namespace   firefox
+// @include     http://user.qzone.qq.com
+// @version     1.3
+// @run-at document-end
+// @description QQ空间自动点赞,6秒刷新一次
+// ==/UserScript==
 /**
  * 刷新间隔
  */
